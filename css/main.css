@@ -791,7 +791,7 @@ pre[class*='highlight'] {
     display: none;
   }
   .main-column {
-    width: 52%;
+    width: 80%;
   }
   .left-column,
   .right-column {
