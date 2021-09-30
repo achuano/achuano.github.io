@@ -778,7 +778,8 @@ pre[class*='highlight'] {
   }
   .main-column {
     order: 2;
-    width: 66.66666666666666%;
+    margin: 0 auto;
+    width: 80%;
   }
 }
 .right-column {
@@ -944,7 +945,7 @@ pre[class*='highlight'] {
 }
 .navbar-logo {
   display: inline-block;
-  margin-left: 96px;
+  margin-left: 400px;
 }
 .navbar-logo-main {
   display: flex;
@@ -957,6 +958,7 @@ pre[class*='highlight'] {
 }
 .navbar-logo-img {
   margin-right: 10px;
+  border-radius: 50%;
 }
 .navbar-menu {
   font-size: 1rem;
